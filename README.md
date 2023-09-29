@@ -1,6 +1,6 @@
 ## @kalousius/caseconverter package.
 
-# Case Converter
+#  To convert text to sentence case
 
 ![npm](https://img.shields.io/npm/v/@kalousius/caseconverter)
 ![npm](https://img.shields.io/npm/dt/@kalousius/caseconverter)
