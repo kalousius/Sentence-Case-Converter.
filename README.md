@@ -4,8 +4,7 @@
 
 ![npm](https://img.shields.io/npm/v/@kalousius/caseconverter)
 ![npm](https://img.shields.io/npm/dt/@kalousius/caseconverter)
-![GitHub](https://img.shields.io/github/license/kalousius/Sentence-Case-Converter)
-[![GitHub issues](https://img.shields.io/github/issues/kalousius/Sentence-Case-Converter)]
+[![GitHub issues](https://github.com/kalousius/Sentence-Case-Converter..git)]
 
 ## Convert text to sentence case with ease.
 
