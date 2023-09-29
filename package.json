@@ -14,12 +14,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/kalousius/Sentence-Case-Converter..git"
+    "url": "https://github.com/kalousius/Sentence-Case-Converter.git"
   },
   "author": "Kalouisus",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/kalousius/Sentence-Case-Converter./issues"
+    "url": "https://github.com/kalousius/Sentence-Case-Converter.git"
   },
   "homepage": "https://github.com/kalousius/Sentence-Case-Converter.#readme",
   "dependencies": {
